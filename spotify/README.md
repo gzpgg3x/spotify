@@ -5,7 +5,7 @@ A very basic node app utilizing the Spotify Web API to perform an album search a
 ## Running Locally
 
 ```
-$ git clone https://github.com/gzpgg3x
+$ git clone https://github.com/rstphnsn/spotify-search.git spotify-search
 $ cd spotify-search
 $ npm install
 $ npm start
